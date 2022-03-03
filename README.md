@@ -6,6 +6,6 @@
 
 - :mag_right:Leant basic knowledge of Linux, HTML, PHP, Apache to maintain my server.
 
-- :school:Currently applying the schools in US and JP (University of California and some imperial universities)
+- :school:Currently applying the schools in US, JP,and FR (University of California and some imperial universities)
 
 - :e-mail:Please feel free to contact me via email(admin@alansong.club)
