@@ -1,6 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RailgunBreaker&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-- :blue_book:Currently a high school student in Harbin, China (Harbin No.3 High School)
+- Graduated from Harbin No.3 High School, one of the best high schools in the province;
+
+- :blue_book:A freshman in Ritsumeikan University and Australian National University. (Global Liberal Arts & Asian Pacific Affairs)
 
 - :computer:Technical Support of Harbin No.3 High School Model United Nations Association
 
