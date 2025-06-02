@@ -2,7 +2,9 @@
 
 ---
 
-Hello! I'm a third-year student pursuing a dual degree between **Ritsumeikan University** and **Australian National University**, majoring in *Global Liberal Arts* and *Asia Pacific Affairs*. With a background from **Harbin No.3 High School**, I have built a strong foundation in both academic research and technical skills, continuously expanding my interests across multiple disciplines.
+Hello! I'm a third-year student pursuing a dual degree between **Ritsumeikan University** and **Australian National University**, majoring in *Global Liberal Arts* and *Asia Pacific Affairs*. 
+
+My current research interests focus on the gap between admission standards and educational quality in English-medium undergraduate programs in Japan, the political and social implications of social credit and credibility systems, the evolving characteristics of Japan's new mode of capitalism, and the labor movements during the Japanese National Railways (JNR) era, particularly their relationship with the Japan Socialist Party.
 
 ---
 
