@@ -4,7 +4,13 @@
 
 Hello! I'm a third-year student pursuing a dual degree between **Ritsumeikan University** and **Australian National University**, majoring in *Global Liberal Arts* and *Asia Pacific Affairs*. 
 
-My current research interests focus on the gap between admission standards and educational quality in English-medium undergraduate programs in Japan, the political and social implications of social credit and credibility systems, the evolving characteristics of Japan's new mode of capitalism, and the labor movements during the Japanese National Railways (JNR) era, particularly their relationship with the Japan Socialist Party.
+My research interests lie at the intersection of Japanese society, politics, and culture.
+
+1. Institutional discrimination against foreign residents in Japan—including Japanese nationals raised abroad—and the development and implementation of multicultural coexistence policies.
+    
+2. The interaction between Japan’s animation industry (broadcasting and production) and the dynamics of Sino–Japanese relations.
+    
+3. Broader issues in contemporary Japanese politics and their implications for society.
 
 ---
 
