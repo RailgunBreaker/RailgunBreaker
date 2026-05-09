@@ -4,13 +4,8 @@
 
 Hello! I'm a fourth-year student pursuing a dual degree between **Ritsumeikan University** and **Australian National University**, majoring in *Global Liberal Arts* and *Asia Pacific Affairs*. 
 
-My research interests lie at the intersection of Japanese society, politics, and culture.
 
-1. Institutional discrimination against foreign residents in Japan—including Japanese nationals raised abroad—and the development and implementation of multicultural coexistence policies.
-    
-2. The interaction between Japan’s animation industry (broadcasting and production) and the dynamics of Sino–Japanese relations.
-    
-3. Broader issues in contemporary Japanese politics and their implications for society.
+My research interests lie in international political economy, particularly in how political expectations and geopolitical risk are reshaping global trade and production networks. I am interested in the limitations of efficiency-based frameworks such as world-systems theory in explaining recent changes in supply chains, trade governance, and outsourcing decisions. Drawing on cases such as rising strategic tensions involving China, the Russia–Ukraine war, and the weakening of the WTO, I seek to explore how expectations about future conflict, coercion, and institutional reliability influence state and firm behavior, as well as the growing role of high-standard trade arrangements such as the CPTPP.
 
 ---
 
@@ -20,9 +15,6 @@ My research interests lie at the intersection of Japanese society, politics, and
 - **Harbin No.3 High School**
 - ~~Admitted student in the College of Letters and Science, University of California, Davis~~
 
-### :books: Research Interests
-- Grade Inflation  
-- Japanese Foreign Policy
 
 ### :computer: Technical Skills
 - Familiar with **Linux**, **HTML**, **PHP**, and **Apache** for server maintenance.
