@@ -2,7 +2,7 @@
 
 ---
 
-Hello! I'm a third-year student pursuing a dual degree between **Ritsumeikan University** and **Australian National University**, majoring in *Global Liberal Arts* and *Asia Pacific Affairs*. 
+Hello! I'm a fourth-year student pursuing a dual degree between **Ritsumeikan University** and **Australian National University**, majoring in *Global Liberal Arts* and *Asia Pacific Affairs*. 
 
 My research interests lie at the intersection of Japanese society, politics, and culture.
 
