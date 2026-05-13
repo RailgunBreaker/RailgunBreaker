@@ -1,4 +1,15 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RailgunBreaker&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats
+
+<p align="center">'
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RailgunBreaker&theme=algolia" alt="Most committed languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RailgunBreaker&theme=algolia" alt="Most committed languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RailgunBreaker&theme=algolia" alt="GitHub stats" />
+</p>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
